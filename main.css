@@ -9,7 +9,8 @@ body
 
 }
 
-.a
+
+a
 {
     link{color:inherit;}
 }
@@ -25,21 +26,21 @@ body
 .elementh:nth-child(1)
 {
 
-    margin-top: 0.2em;
+    margin-top: 0.7em;
     margin-inline: 5px;
     padding:005px
 }
 
 .elementh:nth-child(2)
 {
-    margin-top: 0.2em;
+    margin-top: 0.7em;
     margin-inline: 3px;
     padding:005px;
 }
 
 .elementh:nth-child(3)
 {
-    margin-top: 1em;
+    margin-top: 0.7em;
     margin-right: 2em;
     margin-inline: 5px;
     padding:001px;
@@ -52,7 +53,7 @@ body
     background-color: rgb(65, 130, 255);
     margin-left: 9px;
     margin-right: 2em;
-    margin-top: 13px;
+    margin-top: 10px;
     padding: 13px;
     color: white;
     font-weight: bold;
