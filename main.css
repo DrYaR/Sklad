@@ -1,0 +1,203 @@
+body
+{
+    font-size:13px;
+    font-family: arial,sans-serif; 
+    text-align: center;
+    line-height:15px;
+
+    
+
+}
+
+.a
+{
+    link{color:inherit;}
+}
+
+
+
+#bordelduhaut
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.elementh:nth-child(1)
+{
+
+    margin-top: 0.2em;
+    margin-inline: 5px;
+    padding:005px
+}
+
+.elementh:nth-child(2)
+{
+    margin-top: 0.2em;
+    margin-inline: 3px;
+    padding:005px;
+}
+
+.elementh:nth-child(3)
+{
+    margin-top: 1em;
+    margin-right: 2em;
+    margin-inline: 5px;
+    padding:001px;
+}
+
+
+.entrer
+{
+    line-height:0.25;
+    background-color: rgb(65, 130, 255);
+    margin-left: 9px;
+    margin-right: 2em;
+    margin-top: 13px;
+    padding: 13px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.milieu1
+{
+    margin: 5px;
+    margin-inline: 1em;
+    align-items: center;
+    background-color: rgb(244, 244, 244);
+    padding:013px;
+}
+.milieu2
+{
+    margin: 5px;
+    margin-inline: 1em;
+    align-items: center;
+    margin-left: 0px;
+    background-color: rgb(244, 244, 244);
+
+    padding:013px;
+
+}
+
+
+#bordelmilieu
+{
+    display:flex;
+    justify-content:center;
+    text-align: center;
+    width: fit-content;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav2 
+  {
+    display: flex;
+
+    align-items: center;
+  
+  }
+  
+  .topleft
+  {
+    flex: 1;
+    position: absolute;
+    bottom: 2.7em;
+    width: 100%;
+    text-align: left;
+    left: 0em;
+  }
+
+
+  .topleft {
+    background: rgb(244, 244, 244);
+  }
+
+
+
+
+.nav 
+  {
+    display: flex;
+
+    align-items: center;
+  
+  }
+  
+  .left
+  {
+    flex: 1;
+    position: absolute;
+    bottom: 0em;
+    width: 40%;
+    text-align: left;
+    left: 0em;
+  }
+
+  .right
+  {
+    flex: 1;
+    position: absolute;
+    bottom: 0em;
+    width: 60%;
+    text-align: right;
+    right: 0em;
+  }
+  
+
+
+  
+  
+  .item 
+  {
+    font-size: 13px;
+    padding: 11px;
+    display: inline-block;
+    margin-inline: 10px;
+    margin-left: 1em;
+  }
+
+  
+  .left {
+    background: rgb(237, 236, 236);
+  }
+  
+  .right {
+    background: rgb(237, 236, 236); 
+  }
+
+
+
+
+
+  
+
+  
+  /* Style the search box inside the navigation bar */
+  .topnav input[type=text] {
+    float: none;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 1.4em;
+    margin-top: 29px;
+    margin-bottom: 20px;
+    margin-right: 16px;
+    width: 33em;
+    font-size: 17px;
+  }
+  
+
+  }
+  
